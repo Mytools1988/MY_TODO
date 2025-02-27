@@ -1,0 +1,32 @@
+Metadata-Version: 2.2
+Name: mytodo
+Version: 1.0.0
+Summary: A modern TODO application
+Home-page: https://github.com/yourusername/mytodo
+Author: Your Name
+Author-email: your.email@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+Requires-Dist: requests>=2.31.0
+Requires-Dist: pyinstaller>=6.3.0
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: summary
+
+# MY TODO App
+
+Eine Desktop Todo-App entwickelt von LATIF Jackstadt.
+
+## Features
+- Todo-Listen Management
+- Kategorisierung von Aufgaben
+- PrioritÃ¤ten-System
+- Deadline-Verwaltung
+- Dunkles Design 

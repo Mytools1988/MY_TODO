@@ -1,0 +1,16 @@
+setup.py
+app/__init__.py
+app/constants.py
+app/main.py
+app/todo_manager.py
+app/gui/__init__.py
+app/gui/menu.py
+app/gui/menus.py
+app/gui/settings.py
+app/gui/styles.py
+app/gui/title_bar.py
+app/gui/todo_list.py
+todo_app.egg-info/PKG-INFO
+todo_app.egg-info/SOURCES.txt
+todo_app.egg-info/dependency_links.txt
+todo_app.egg-info/top_level.txt

@@ -1,0 +1,7 @@
+window_position=custom
+window_size=300,700
+theme=midnight
+custom_x=1599
+custom_y=230
+language=de
+notification_sound=sound1

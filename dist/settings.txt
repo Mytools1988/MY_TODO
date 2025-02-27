@@ -1,0 +1,5 @@
+window_position=tr
+window_size=300,700
+theme=dark
+custom_x=1409
+custom_y=268
